@@ -2,7 +2,6 @@
 layout: default
 title: Claire Labit-Bonis
 ---
-Go back [home](./).
 
 # Bio.
 
@@ -10,7 +9,10 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # Education.
 
+# Teaching
 
+**3ASRI & M2SIA**: 3D perception & localization. `[`[TP1](teaching)`]` `[`[TP2](teaching)`]`
+**M1SIA & M1ISTR-RODECO**: Image processing. `[`[TP1](teaching)`]` `[`[TP2](teaching)`]` `[`[TP3](teaching)`]`
 
 
 [Link to teaching](teaching).
