@@ -1,8 +1,16 @@
 ---
 layout: default
+title: Claire Labit-Bonis' Homepage
 ---
 
+# Bio.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+# Education.
+
+
+
 
 [Link to another page](another-page).
 
