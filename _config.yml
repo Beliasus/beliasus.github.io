@@ -1,15 +1,14 @@
 # Site settings
-title: CS231n Convolutional Neural Networks for Visual Recognition
-email: karpathy@cs.stanford.edu
-description: "Course materials and notes for Stanford class CS231n: Convolutional Neural Networks for Visual Recognition."
+title: Claire Labit-Bonis's homepage
 baseurl: ""
-url: "http://cs231n.github.io"
-twitter_username: cs231n
-github_username:  cs231n
+url: "http://beliasus.github.io"
+github_username:  beliasus
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+theme: jekyll-theme-cayman
 
 highlighter: rouge
 kramdown:
