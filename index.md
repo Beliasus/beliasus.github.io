@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Claire Labit-Bonis' Homepage
+title: Claire Labit-Bonis
 ---
 Go back [home](./).
 
