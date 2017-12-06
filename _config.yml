@@ -8,6 +8,8 @@ github_username:  beliasus
 markdown: kramdown
 permalink: pretty
 
+show_downloads: true
+
 theme: jekyll-theme-cayman
 
 highlighter: rouge
