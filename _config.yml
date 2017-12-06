@@ -6,7 +6,7 @@ github_username:  beliasus
 
 # Build settings
 markdown: kramdown
-permalink: home
+permalink: pretty
 
 show_downloads: true
 

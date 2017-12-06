@@ -2,7 +2,7 @@
 layout: default
 title: Claire Labit-Bonis' Homepage
 ---
-Back to [homepage](home).
+Go back [home](./).
 
 # Bio.
 
