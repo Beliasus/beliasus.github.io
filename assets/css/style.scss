@@ -2,17 +2,6 @@
 ---
 @import "{{ site.theme }}";
 .main-content {
-  @include large {
-    font-size: 1rem;
-  }
-
-  @include medium {
-    font-size: 0.9rem;
-  }
-
-  @include small {
-    font-size: 0.8rem;
-  }
   h1,
   h2,
   h3,
@@ -28,4 +17,7 @@
 .page-header {
   background-image: url(/assets/road_night.jpeg);
   background-size: cover;
+}
+h1 {
+  font-size: 1.5em;
 }
