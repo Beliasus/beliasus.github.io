@@ -3,4 +3,5 @@
 @import "{{ site.theme }}";
 .page-header {
   background-image: url(/assets/road_night.jpeg);
+  background-size: cover;
 }
