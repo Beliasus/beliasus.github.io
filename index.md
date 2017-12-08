@@ -11,10 +11,6 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # Teaching.
 
-**3ASRI & M2SIA**: 3D perception & localization. `[`[TP1](teaching)`]` `[`[TP2](teaching)`]`
-
-**M1SIA & M1ISTR-RODECO**: Image processing. `[`[TP1](teaching)`]` `[`[TP2](teaching)`]` `[`[TP3](teaching)`]`
-
 
 [Link to teaching](teaching).
 
