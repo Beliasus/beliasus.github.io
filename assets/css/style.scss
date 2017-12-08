@@ -1,9 +1,17 @@
 ---
 ---
 @import "{{ site.theme }}";
-body {
-  font-size: 12px;
-}
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6 {
+   margin-top: 2rem;
+   margin-bottom: 1rem;
+   font-weight: normal;
+   color: #7F0000;
+ }
 .page-header {
   background-image: url(/assets/road_night.jpeg);
   background-size: cover;
